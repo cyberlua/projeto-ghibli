@@ -12,7 +12,7 @@ Consumir API do Studio Ghibli.
 
 ## 🧠 Contexto
 
-O objetivo é utulizar o fetch para realizar uma requisição ao endpoint (https://ghibliapi.vercel.app/films) da Studios Ghibli API e popular a página web com os dados do json que é a lista com todos os filmes da Ghibli
+O objetivo é utulizar o fetch para realizar uma requisição ao endpoint (https://ghibli.rest/films) da Studios Ghibli API e popular a página web com os dados do json que é a lista com todos os filmes da Ghibli
 
 ## Funções utilizadas:
 

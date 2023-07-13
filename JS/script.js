@@ -18,7 +18,7 @@ let films;
 
 async function getFilms() {
     try {
-        const resposta = await fetch('https://ghibliapi.vercel.app/films')
+        const resposta = await fetch('https://ghibli.rest/films')
         const json = await resposta.json()
         return json
 
